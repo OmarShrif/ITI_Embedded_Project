@@ -11,6 +11,7 @@ allows two modes of operation: admin and user.
   o User mode: provides features such as viewing patient 
     records and today's reservations
 
+
 Smart Home | ITI-Embedded Project
 
 Objective were to provide a system with:
