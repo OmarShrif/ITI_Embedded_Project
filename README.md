@@ -1,5 +1,5 @@
 # ITI_Embedded_Project
-<<<<<<<<<<< Clinic Management System | ITI-C Project >>>>>>>>>>>>>
+--------------- Clinic Management System | ITI-C Project ---------------
 
 Developed a C code for a clinic management system that 
 allows two modes of operation: admin and user.
@@ -12,7 +12,7 @@ allows two modes of operation: admin and user.
     records and today's reservations
 
 
-<<<<<<<<<<< Smart Home | ITI-Embedded Project >>>>>>>>>>>>>
+--------------- Smart Home | ITI-Embedded Project ---------------
 
 Objective were to provide a system with:
 
