@@ -11,14 +11,26 @@ Objective were to provide a system with:
   
 The devices used:
 
-▪ Microcontroller unit (MCU) Atmega 32    ▪ keypad
+▪ Microcontroller unit (MCU) Atmega 32    
 
-▪ 7-segment display                       ▪ LCD 16*2
+▪ keypad
 
-▪ Servo Motor                             ▪ Pushbutton
+▪ 7-segment display                
 
-▪ Temperature sensor (LM 35)              ▪ DC Motor
+▪ LCD 16*2
 
-▪ LED lights                              ▪ Resistors
+▪ Servo Motor                            
 
-▪ LDR sensor                              ▪ Transistor
+▪ Pushbutton
+
+▪ Temperature sensor (LM 35)             
+
+▪ DC Motor
+
+▪ LED lights                              
+
+▪ Resistors
+
+▪ LDR sensor                            
+
+▪ Transistor
