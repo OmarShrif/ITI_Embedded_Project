@@ -9,7 +9,7 @@
   
   o Ventilation control.
   
-The devices used:
+### The devices used:
 
 ▪ Microcontroller unit (MCU) Atmega 32    
 
