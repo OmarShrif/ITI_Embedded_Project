@@ -1,7 +1,7 @@
 # ITI_Embedded_Project
---------------- Smart Home | ITI-Embedded Project ---------------
+## --------------- Smart Home | ITI-Embedded Project ---------------
 
-Objective were to provide a system with:
+### Objective were to provide a system with:
 
   o Password-protected door.
   
